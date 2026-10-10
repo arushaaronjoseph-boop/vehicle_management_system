@@ -1,0 +1,7 @@
+type,id,make,model,rate,spec,is_rented,rented_by
+Car,CR-5541,Toyota,Camry,45.0,4,False,
+Car,CR-8829,Honda,Civic,38.0,4,False,
+Car,CR-3310,Hyundai,Elantra,35.0,4,False,
+Car,CR-6674,Nissan,Altima,42.0,2,False,
+Van,VN-4081,Ford,Transit passenger van,110.0,1.5,False,
+Van,VN-5529,Mercedes-Bens,Sprinter cargo,135.0,2.0,False,
